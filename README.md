@@ -1,0 +1,2 @@
+# Recriando-a-netflix
+Recriando a interface do principal site de streaming mundial utilizando tecnologias como HTML5, CSS3 e JavaScript. Nesse projeto consegui aprender como estruturar um layout, técnicas de CSS3 com containers e variáveis, posicionamento dos elementos com Flexbox e como utilizar plugins Jquery a favor da aplicação.  Foi um projeto rico de conhecimento, porque foi o primeiro projeto utilizando JavaScript e Jquery. Claro que tem muita coisa pela frente, mas dar o primeiro passo já é um passo!
